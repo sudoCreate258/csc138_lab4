@@ -16,7 +16,9 @@ Determine which number is the largest and which number is the smallest and print
 ### B. Create a list containing the names of several programming languages. 
 Prompt the user for their favorite programming language and determine if that language is present in the list. 
 If the language is a member of the list, print out a message, otherwise add the language to the list.
-### C. Given a fulcrum system like the one to the right (SEE [4.b.i](https://github.com/sudoCreate258/csc138_lab4/assets/59755293/a455ac0b-8dc0-4db7-84b4-e3c8f7c182a4)), 
-Write a complete script that determines whether the system will balance. 
-At the keyboard, prompt the user for the values for the two weights and distances, and output whether or not the systems will balance. 
-Recall that the system will balance when w 1 x d 1 = w 2 x d 2 (you may assume that the balance beam has no weight).
+### C. [Activity]([url](https://colab.research.google.com/drive/1p0360rTiu-O8dVvU1A3g_S1oxSXaJewz?usp=sharing)): Let’s use real data
+Search/Extract ISBN Codes
+Find 3 books that you are familiar with and search their ISBN number
+Update the output to print the following
+<No>. <BookName> by <Author> <Year> <Description>
+
